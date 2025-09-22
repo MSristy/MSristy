@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! I'm Mahmuda Akter Sristy 👩‍💻</h1>
 <p align="center">🌱 Passionate Developer • 💡 Problem Solver • 🌐 Web Enthusiast</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-image-url" width="160" alt="Mahmuda Akter Sristy" style="border-radius: 50%;" />
-</p>
-
 ---
 
 ## 🎓 About Me
