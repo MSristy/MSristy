@@ -43,7 +43,7 @@
 ## 📬 Connect with Me
 
 - 📧 Email: [mahmudasristy7@gmail.com](mailto:mahmudasristy7@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/mahmudaaktersristy](#)  
+- 🌐 LinkedIn: [linkedin.com/in/mahmudaaktersristy](https://www.linkedin.com/in/mahmuda-sristy-942a03386)  
 - 📘 Facebook: [mahmudaakter.sristy](https://facebook.com/mahmudaakter.sristy)
 
 ---
